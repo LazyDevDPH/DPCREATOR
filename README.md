@@ -1,5 +1,8 @@
 # DPCREATOR
 
+About This tool:
+A simple automatic deface page creator written in python.
+
 
 <h1>CONTACT ME HERE</h1>
 
