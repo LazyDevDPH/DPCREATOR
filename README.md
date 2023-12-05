@@ -6,3 +6,11 @@
 <hr>
 
 # INSTALLATION
+
+<p>git clone https://github.com/LazyDevDPH/DPCREATOR</p>
+<br>
+<p>cd DPCREATOR</p>
+<br>
+<p>
+python main.py
+</p>
